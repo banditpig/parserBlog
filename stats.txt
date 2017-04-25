@@ -1,0 +1,20 @@
+ 
+ data
+ # some comment here 
+   name data1
+   start 1.0
+   end   28.1
+   step  0.1
+
+   name data2
+   start 1.0
+   end   3.5
+   step  0.1
+output
+   # some other comment here
+   mean data1
+   mean data2
+   sum data1
+   sum data2
+
+
